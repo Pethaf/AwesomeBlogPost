@@ -41,3 +41,7 @@ a {
 .read-more {
     margin: 0;
 }
+
+a:focus, a:hover {
+    color: #104C90;
+}
