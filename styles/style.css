@@ -13,8 +13,6 @@ h1 {
 h2 {
     color: #104C90;
     font-size: 32px;
-    padding-top:25px;
-    padding-bottom: 25px;
 }
 
 p {
@@ -24,7 +22,7 @@ p {
 
 .blog-post {
     background: #F1F1F1;
-    padding: 20px;
+    padding: 25px;
 }
 
 
